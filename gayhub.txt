@@ -3859,5 +3859,5 @@ loadstring(game:HttpGet("https://gist.githubusercontent.com/BloxiYT/26f5c60eaed4
 end
 
 if game.PlaceId == 920587237 then
-loadstring(game:HttpGet("https://alpha1004.tech/scripts/AlphaX.lua"))()
+loadstring(game:HttpGet("https://pastebinp.com/raw/Z3iAXASr", true))()
 end
