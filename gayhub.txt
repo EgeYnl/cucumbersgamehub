@@ -43,3 +43,7 @@ end
 if game.PlaceId == 1224212277 then
 loadstring(game:HttpGet("https://system-exodus.com/scripts/madlads/MadLads.lua",true))()
 end
+
+if game.PlaceId == 606849621 then
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
+end
