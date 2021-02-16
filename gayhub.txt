@@ -41,5 +41,5 @@ loadstring(game:HttpGet("https://pastebinp.com/raw/Z3iAXASr", true))()
 end
 
 if game.PlaceId == 606849621 then
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1"))()
 end
