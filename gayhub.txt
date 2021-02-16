@@ -60,3 +60,7 @@ end
 if game.PlaceId == 3527629287 then
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
 end
+
+if game.PlaceId == 537413528 then
+loadstring(game:HttpGet("https://dirtgui.xyz/ImageLoader.lua",true))()
+end
