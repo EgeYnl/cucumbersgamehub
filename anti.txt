@@ -1,0 +1,7 @@
+local mt = getrawmetatable(game)
+local old = mt.__namecall
+local protect = newcclosure or protect_function
+
+setfflag("AbuseReportScreenshotPercentage", 0)
+
+setfflag("DFFlagAbuseReportScreenshot", "False")
