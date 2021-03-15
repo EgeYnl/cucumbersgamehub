@@ -2980,7 +2980,6 @@ end
 
 if game.PlaceId == 606849621 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-Evolution/Main/main/Loader.lua", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/alohabeach/Main/master/Scripts/JailbreakAutoRob.lua"))()
 end
 
 if game.PlaceId == 3527629287 then
