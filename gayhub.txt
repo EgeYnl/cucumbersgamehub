@@ -1,6 +1,6 @@
 --Arsenal
 if game.PlaceId == 286090429 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-Evolution/Main/main/Loader.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/Banana/main/ArsenalGUIRevamp.lua", true))()
 end
 
 --Ragdoll Engine
